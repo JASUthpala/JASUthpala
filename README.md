@@ -24,24 +24,24 @@
 ---
 <h3>My GitHub Stats</h3>
 
-<!-- Stats row -->
-<div style="display: flex; gap: 40px; justify-content: center; align-items: flex-start;">
-
+<p align="center">
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JASUthpala&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
-
+  
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- 👈 adds space -->
+  
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=JASUthpala&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
-
-</div>
+</p>
 
 <br>
 
 <!-- Streak Stats -->
-<div align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JASUthpala&theme=dark" alt="GitHub Streak" />
-</div>
+</p>
 
 <hr width="60%">
+
 
 
