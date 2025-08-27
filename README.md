@@ -25,15 +25,15 @@
 ---
 <h3>My GitHub Stats 📊</h3>
 
-<p align="center">
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JASUthpala&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
-  
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- 👈 adds space -->
-  
+<div align="center">
+
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=JASUthpala&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
-</p>
+
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JASUthpala&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
+
+</div>
 
 <br>
 
