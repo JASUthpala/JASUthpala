@@ -4,7 +4,7 @@
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jasuthpala&label=Profile%20views&color=0e75b6&style=flat" alt="jasuthpala" /> </p>
 
-- 🌱 I’m currently learning **a journey through Computer Engineering — from hardware to software 🚀**
+- 🌱 I’m currently learning **a journey through Computer Engineering - from hardware to software 🚀**
 
 - 📫 How to reach me **uthpalasandali23@gmail.com**
 
