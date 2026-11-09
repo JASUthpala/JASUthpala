@@ -31,23 +31,24 @@
 <br>
 
 ---
+
 <h3>My GitHub Stats 📊</h3>
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=JASUthpala&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
+<!-- GitHub Stats -->
+<img src="https://github-stats-extended.vercel.app/api?username=JASUthpala&show_icons=true&theme=dark&locale=en"
+         alt="GitHub Stats" height="180" />
 
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JASUthpala&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
+<!-- Top Languages -->
+ <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JASUthpala&layout=compact&theme=dark&locale=en"
+         alt="Top Languages" height="180" />
+
+         
+<!-- GitHub Streak Stats -->
+ <img src="https://streak-stats.demolab.com/?user=JASUthpala&theme=dark"
+         alt="GitHub Streak Stats" />
 
 </div>
-
-<br>
-
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JASUthpala&theme=dark" alt="GitHub Streak" />
-</p>
 
 ---
