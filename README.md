@@ -16,6 +16,13 @@
 <a href="www.linkedin.com/in/sandali-uthpala-7195ab302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandali uthpala" height="40" width="50" /></a>
 <a href="https://www.hackerrank.com/uthpalasandali23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="uthpalasandali23" height="40" width="50" /></a>
 </p>
+<a href="https://www.thecn.com/JU269" target="_blank">
+    <img align="center"
+         src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png"
+         alt="CNE Portfolio"
+         height="40"
+         width="40" />
+</a>
 
 <br>
 <h3 align="left">Languages and Tools 👨🏻‍💻</h3>
