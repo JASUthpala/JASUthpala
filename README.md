@@ -12,27 +12,33 @@
 
 <br>
 <h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 25px;">Connect with me 🤝 </h3>
+
 <p align="left">
-<a href="https://www.linkedin.com/in/sandali-uthpala-7195ab302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandali uthpala" height="40" width="50" /></a>
-<a href="https://www.hackerrank.com/uthpalasandali23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="uthpalasandali23" height="40" width="50" /></a>
+
+<a href="https://www.linkedin.com/in/sandali-uthpala-7195ab302" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn" height="40" width="50" />
 </a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.hackerrank.com/uthpalasandali23" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+         alt="HackerRank" height="40" width="50" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.thecn.com/JU269" target="_blank">
-    <img align="center"
-         src="assets/cne-logo.jpg"
-         alt="CNE Portfolio"
-         height="40"
-         width="40" />
+    <img src="assets/cne-logo.jpg"
+         alt="CNE Portfolio" height="40" width="40" />
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://jasuthpala.github.io/" target="_blank">
-    <span style="background-color: white; display: inline-block; padding: 5px; border-radius: 50%;">
-        <img align="center"
-             src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png"
-             alt="Personal Portfolio"
-             height="40"
-             width="40" />
-    </span>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/globe.png"
+         alt="Personal Portfolio" height="40" width="40" />
 </a>
+
+</p>
 
 <br>
 <br>
