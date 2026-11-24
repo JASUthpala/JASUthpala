@@ -13,13 +13,21 @@
 <br>
 <h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 25px;">Connect with me 🤝 </h3>
 <p align="left">
-<a href="www.linkedin.com/in/sandali-uthpala-7195ab302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandali uthpala" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/sandali-uthpala-7195ab302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandali uthpala" height="40" width="50" /></a>
 <a href="https://www.hackerrank.com/uthpalasandali23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="uthpalasandali23" height="40" width="50" /></a>
 </a>
 <a href="https://www.thecn.com/JU269" target="_blank">
     <img align="center"
          src="assets/cne-logo.jpg"
          alt="CNE Portfolio"
+         height="40"
+         width="40" />
+</a>
+
+<a href="https://jasuthpala.github.io/" target="_blank">
+    <img align="center"
+         src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png"
+         alt="Personal Portfolio"
          height="40"
          width="40" />
 </a>
