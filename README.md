@@ -77,7 +77,10 @@
 
 **Development Tools**
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
+         width="48" height="48" alt="Jupyter" />
+    <img src="https://skillicons.dev/icons?i=docker" />
 </p>
 
 <br>
